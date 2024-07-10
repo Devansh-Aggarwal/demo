@@ -1,2 +1,3 @@
 # demo
-Learning about GIT Repositories
+Learning about GIT Repositories.
+Author- Devansh Aggarwal
